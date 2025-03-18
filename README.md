@@ -18,6 +18,4 @@ This project automates test cases for the Levelset website using Selenium and Re
 - **TestNG**
 - **Maven**
 - **Page Object Model (POM)**
-- **RestAssured (API Testing)**
 
-## Project Structure
